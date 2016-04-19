@@ -1,2 +1,2 @@
 # docker-suave
-Single-file script F# web server
+Container for script based F# web server
